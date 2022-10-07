@@ -13,5 +13,6 @@ public class File01 {
             e.printStackTrace();
         }
         System.out.println("hi");
+        System.out.println("hihi");
     }
 }
