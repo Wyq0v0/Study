@@ -23,6 +23,6 @@ public class File01 {
             f1.delete();
             System.out.println("文件删除成功");
         }
-
+        System.out.println("github pull测试");
     }
 }
